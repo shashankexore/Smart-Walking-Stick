@@ -65,5 +65,5 @@ Special thanks to the Arduino community for guidance and inspiration.
 
 ## Credits
 
-Made by Shashank Singh
+Made by Shashank Singh and Anushka Banerjee (@anushka369).
 
